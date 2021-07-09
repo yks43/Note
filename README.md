@@ -1,2 +1,6 @@
-# Note
-喻康帅的开发日记
+---
+description: 'About me: my coding note.    to be a professional coder!'
+---
+
+# YKS
+

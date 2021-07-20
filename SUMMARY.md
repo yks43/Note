@@ -3,6 +3,7 @@
 * [YKS](README.md)
 * [framework](framework/README.md)
   * [Spring](framework/spring/README.md)
+    * [循环依赖](framework/spring/xun-huan-yi-lai.md)
     * [IOC](framework/spring/ioc/README.md)
       * [问题](framework/spring/ioc/wen-ti.md)
       * [学习](framework/spring/ioc/xue-xi.md)
